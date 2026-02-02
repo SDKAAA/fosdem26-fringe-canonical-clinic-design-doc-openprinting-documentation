@@ -1,5 +1,10 @@
 # OpenPrinting List of Topics/Projects that requires documentation
-Each of the below repos will have 2 or 3 main documentation files hosted inside that repo's doc folder<br />
+Contributions to the documentation of OpenPrinting falls under 3 different categories:
+* user facing app (when applicable, this is the manual of how the user is supposed to use the app)
+* developer guidelines (devlopers of the mentioned topic/project)
+* admin guidelines (admins are the ones who are setting up system wide or network apps)
+
+<br> Each of the below repos will have 2 or 3 main documentation files hosted inside that repo's doc folder<br />
 Suggestion to name the files:
 < app >.< type >.documentation.md<br/>
 &emsp;system-config-printer.user.documentation.md<br/>

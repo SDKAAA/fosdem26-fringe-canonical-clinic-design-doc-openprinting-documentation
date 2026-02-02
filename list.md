@@ -1,10 +1,10 @@
 # OpenPrinting List of Topics/Projects that requires documentation
-
+Each of the below repos will have 2 or 3 main documentation files hosted inside that repo's doc folder<br />
 Suggestion to name the files:
-< app >.< type >.documentation.md
-system-config-printer.user.documentation.md
-foomatic-db.developer.documentation.md
-pyppd.admin.documentation.md
+< app >.< type >.documentation.md<br/>
+&emsp;system-config-printer.user.documentation.md<br/>
+&emsp;foomatic-db.developer.documentation.md<br/>
+&emsp;pyppd.admin.documentation.md<br/>
 
 
 ## Applications
